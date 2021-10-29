@@ -1,6 +1,6 @@
 //import React from 'react'
 //import { useEffect, useState } from "react"
-import { Button, Form, Container, Col, Row }
+import { Button, Form, Col, Row } from "react-bootstrap"
 
 const FormData = () => {
     return (
