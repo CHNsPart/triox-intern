@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+input {
+    margin: 10px 0;
+    height: 50px;
+}
+.c1 {
+    margin-top: 10px;
+    width: 500px;
+    display: flex;
+    text-align: right;
+    justify-content: center;
+}
+.g1 {
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.changebleInput {
+    width: 70%;
+}
+.mar {
+    margin-top: 80px;
+}
+.btn-blck {
+    width: 100%;
+}
+
+
